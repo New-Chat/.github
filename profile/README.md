@@ -4,6 +4,6 @@
 
 <br />
 
-![Metrics](/profile/metrics.svg)
+![Metrics](github-metrics.svg)
 
 </span>
