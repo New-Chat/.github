@@ -1,5 +1,5 @@
 <span align="center">
 
-![Metrics](profile/metrics.svg)
+![Metrics](metrics.svg)
 
 </span>
