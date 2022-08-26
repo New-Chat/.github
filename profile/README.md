@@ -1,9 +1,5 @@
 <span align="center">
 
----
-
-<br />
-
-![Metrics](github-metrics.svg)
+![Metrics](profile/metrics.svg)
 
 </span>
